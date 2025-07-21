@@ -4,8 +4,8 @@
 ### Задание 1. Elasticsearch 
 
 Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный. 
+![Название скриншота 1](https://github.com/Fizic666/ELK_11-03/blob/main/net2-2025-07-21-22-26-02.png)
 
-*Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name*.
 
 ---
 
