@@ -4,7 +4,7 @@
 ### Задание 1. Elasticsearch 
 
 Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный. 
-![Название скриншота 1](https://github.com/Fizic666/ELK_11-03/blob/main/net2-2025-07-21-22-26-02.png)
+![Название скриншота 1](https://github.com/Fizic666/ELK_11-03/blob/main/11-3-1.png)
 
 
 ---
@@ -13,7 +13,7 @@
 
 Установите и запустите Kibana.
 
-![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/vm2-2025-07-22-10-28-09.png)
+![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/11-3-2.png)
 
 
 ---
@@ -21,11 +21,11 @@
 ### Задание 3. Logstash
 
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch. 
-![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/net3-2025-07-22-14-19-04.png)
+![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/11-3-3-1.png)
 
-![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/vm2-2025-07-22-12-21-41.png)
+![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/11-3-3-2.png)
 
-![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/vm2-2025-07-22-12-18-41.png)
+![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/11-3-3-3.png)
 
 
 
@@ -34,7 +34,7 @@
 ### Задание 4. Filebeat. 
 
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat. 
+![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/11-3-4.png)
 
-*Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 
 
