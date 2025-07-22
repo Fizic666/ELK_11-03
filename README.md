@@ -13,7 +13,8 @@
 
 Установите и запустите Kibana.
 
-*Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty*.
+![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/vm2-2025-07-22-10-28-09.png)
+
 
 ---
 
