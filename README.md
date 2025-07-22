@@ -21,6 +21,8 @@
 ### Задание 3. Logstash
 
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch. 
+![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/net3-2025-07-22-14-19-04.png)
+
 ![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/vm2-2025-07-22-12-21-41.png)
 
 ![Название скриншота 2](https://github.com/Fizic666/ELK_11-03/blob/main/vm2-2025-07-22-12-18-41.png)
